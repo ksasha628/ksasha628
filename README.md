@@ -1,18 +1,19 @@
-### Hi, I'm PARK Gyu-nam 👋
+### Hi, I'm Gyu-nam 👋
 
 Software & Computer Engineering student at Ajou University, focused on **AI agent security**: how computer-use agents (CUAs) can be attacked, and how to test them responsibly.
 
-- 🔭 **Now:** red-teaming computer-use agents at **Team RAID**, WhiteHat School 4th cohort (KISA)
+- 🔭 **Now:** 4th-cohort trainee at **WhiteHat School**, KISA's security training program
 - 🛡️ **Interests:** agent attack surfaces, prompt injection, sandbox and VM isolation
 - 🧰 **Background:** Linux, Docker, DevOps, reverse engineering, dynamic analysis
+- 🕰️ **Previously:** red-teamed computer-use agents with **Team RAID**, as a WhiteHat School project
 - 📫 **Security contact:** ksasha@ajou.ac.kr
 
 ---
 
-#### 🧪 What I work on
+#### 🧪 What I've worked on
 
-- **CUA red teaming:** building attack scenarios against computer-use agents on OSWorld-style VM environments and measuring when the agents follow them
-- **Prompt injection & memory attacks:** how untrusted on-screen content and persisted agent memory can steer what an agent does next
+- **CUA red teaming:** built attack scenarios against computer-use agents on OSWorld-style VM environments and measured when the agents followed them
+- **Prompt injection & memory attacks:** studied how untrusted on-screen content and persisted agent memory can steer what an agent does next
 
 ---
 
