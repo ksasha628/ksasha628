@@ -1,4 +1,4 @@
-### Hi, I'm Gyu-nam 👋
+### Hi, I'm PARK Gyu-nam 👋
 
 Software & Computer Engineering student at Ajou University, focused on **AI agent security**: how computer-use agents (CUAs) can be attacked, and how to test them responsibly.
 
