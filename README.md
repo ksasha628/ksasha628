@@ -19,5 +19,5 @@ Software & Computer Engineering student at Ajou University, focused on **AI agen
 
 #### 📄 Publications
 
-- **[CISC-W 2026, Oral] (to appear)** Attack Surfaces and Memory-Mediated Attack Persistence in Computer-Use Agents<br>
+- **[CISC-W 2026, Oral]** Attack Surfaces and Memory-Mediated Attack Persistence in Computer-Use Agents<br>
   <sub>**Gyu-nam Park** (co-first author), with Team RAID, WhiteHat School 4th (KISA)</sub>
